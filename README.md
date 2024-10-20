@@ -33,3 +33,6 @@ Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à
 Esse prejeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 
+## Para acessar a o site click no link abaixo:
+
+ https://dev-music-sportify.vercel.app/
