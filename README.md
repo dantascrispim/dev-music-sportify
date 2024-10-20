@@ -1,6 +1,6 @@
 # App - App sportfy
 
-app desenvolvido para teste de habilidades com uma land-page moderna e intuitiva do sportify
+App desenvolvido para teste de habilidades com uma land-page moderna e intuitiva do sportify
  
 ## Layout
 
@@ -9,7 +9,7 @@ app desenvolvido para teste de habilidades com uma land-page moderna e intuitiva
 
 
 ## Funcionalidade
-- landa page intuitiva do sportify criada para aprimorar meus conhecimentos, com um ambiente agradável e intuitivo.
+- land page intuitiva do sportify criada para aprimorar meus conhecimentos em HTML, CSS, com um ambiente agradável e intuitivo.
 
 
 ## Como Contribuir
@@ -17,7 +17,7 @@ Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à
 
 ## Tecnologias Ultilizadas
 
-HTML5, CSS3,  GIT E GITHUB
+HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, GIT E GITHUB.
 
 
 ## Pré-Requisitos
